@@ -1,0 +1,4 @@
+/home/jakukur/Downloads/clion-2024.3.1.1/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/jakukur/Downloads/clion-2024.3.1.1/bin/ninja/linux/x64/ninja -G Ninja -S /home/jakukur/Downloads/yolox-openvino2022-master -B /home/jakukur/Downloads/yolox-openvino2022-master/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jakukur/Downloads/yolox-openvino2022-master/cmake-build-debug

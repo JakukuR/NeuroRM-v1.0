@@ -1,0 +1,3 @@
+/home/jakukur/Downloads/yolox-openvino2022-master/cmake-build-debug/CMakeFiles/run.dir
+/home/jakukur/Downloads/yolox-openvino2022-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jakukur/Downloads/yolox-openvino2022-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
